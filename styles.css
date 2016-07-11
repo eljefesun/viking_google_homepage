@@ -1,0 +1,35 @@
+body{
+
+}
+
+div {
+	border: 1px solid #ddd;
+}
+
+.navbar {
+	height: 40px;
+}
+
+.button h2{
+	font-size:18px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-elements-container{
+	float: right;
+}
+
+.nav-elements-container .button{
+	font-size: 18px;
+	text-align: center;
+	width: 75px;
+	display: inline-block;
+	line-height: 20px;
+	height: 20px;
+	vertical-align: middle;
+}
+
+
+
+
+
