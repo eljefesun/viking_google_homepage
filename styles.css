@@ -29,6 +29,67 @@ div {
 	vertical-align: middle;
 }
 
+.main-content img{
+	padding-top: 120px;
+	padding-left: 420px;
+}
+
+.search-container {
+	margin: 30px auto;
+	width: 540px;
+}
+
+.search-container input{
+	padding: 2px;
+}
+
+.search-container .search-bar{
+	font-size: 18px;
+	line-height: 24px;
+	width: 540px;
+	padding-left: 6px;
+	border: 1px solid gray;
+}
+
+.search-button-container {
+	text-align: center;
+	line-height: 34px;
+}
+
+.search-button-container .search-submit{
+	font-size: 24px;
+	width: 150px;
+	padding-top: 20px;
+	display: inline-block;
+}
+
+.search-button-container .search-random{
+	font-size: 24px;
+	width: 150px;
+	padding-top: 20px;
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
