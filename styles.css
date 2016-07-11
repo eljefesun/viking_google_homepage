@@ -2,9 +2,6 @@ body{
 
 }
 
-div {
-	border: 1px solid #ddd;
-}
 
 .navbar {
 	height: 40px;
@@ -29,9 +26,14 @@ div {
 	vertical-align: middle;
 }
 
+.main-content{
+	height: 100%
+	width: 100%;
+}
 .main-content img{
 	padding-top: 120px;
 	padding-left: 420px;
+	vertical-align: middle;
 }
 
 .search-container {
@@ -63,6 +65,7 @@ div {
 	display: inline-block;
 }
 
+
 .search-button-container .search-random{
 	font-size: 24px;
 	width: 150px;
@@ -70,9 +73,37 @@ div {
 	display: inline-block;
 }
 
+.footer-container{
+	padding-top: 360px;
+}
 
+.footer-container .fc-left{
+	float:left;
+}
 
+.footer-container .fc-right{
+	float:right;
+}
 
+.fc-left .button{
+	font-size: 14px;
+	text-align: center;
+	width: 95px;
+	padding: 2px;
+	display: inline-block;
+	line-height: 30px;
+	height: 30px;
+}
+
+.fc-right .button{
+	font-size: 14px;
+	text-align: center;
+	width: 95px;
+	padding: 2px;
+	display: inline-block;
+	line-height: 30px;
+	height: 30px;
+}
 
 
 
